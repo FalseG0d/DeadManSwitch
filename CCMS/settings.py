@@ -25,7 +25,7 @@ SECRET_KEY = 'm%25opggsc!x4cber%-p%i)#k&!zsna(@m3@+_ngw9cn*dqblv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','ccmsystem.herokuapp.com']
 
 
 # Application definition
